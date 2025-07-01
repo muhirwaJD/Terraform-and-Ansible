@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# lamp-terraform
-=======
 # 🚀 AutoJenkins: CI/CD Deployment on AWS using Terraform & Ansible
 
 A full DevOps automation project that provisions an EC2 instance on AWS using **Terraform**, and configures it with **Ansible** to install and run **Jenkins** — a powerful CI/CD automation server. No manual steps. No SSHing into servers. Just code.
